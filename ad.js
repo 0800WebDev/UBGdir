@@ -13,8 +13,8 @@
       link: "https://github.com/0800WebDev"
     },
     {
-      img: "https://https://0800webdev.github.io/UBGdir/logos/ubg98.png",
-      link: "www.ubg98.com"
+      img: "https://0800webdev.github.io/UBGdir/logos/ubg98.png",
+      link: "https://www.ubg98.com"
     }
   ];
 

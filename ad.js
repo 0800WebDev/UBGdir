@@ -12,10 +12,10 @@
       img: "https://i.postimg.cc/5Ng9k1mx/28470cf859534f4da1071c04d2f2ee6b-free.png",
       link: "https://github.com/0800WebDev"
     },
-    {
-      img: "https://0800webdev.github.io/UBGdir/logos/ubg98.png",
-      link: "https://www.ubg98.com"
-    }
+//    {
+//      img: "https://0800webdev.github.io/UBGdir/logos/ubg98.png",
+//      link: "https://www.ubg98.com"
+//    }
   ];
 
   function getDomain(url) {
